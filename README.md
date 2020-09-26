@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-<img align="left" src="ss/1.png" width="200" height="350">
+<img align="left" src="ss/1.png" width="200" height="370">
